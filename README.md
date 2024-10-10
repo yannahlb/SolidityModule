@@ -1,5 +1,5 @@
 # Project: Create a Token
-Final assessment for Getting Started with Solidity. A basic implementation of a token system that allows minting and burning of tokens.  It demonstrates the process of minting and burning tokens, as well as how to maintain a balance of tokens for different addresses. 
+This solidity program is a basic implementation of a token system that demonstrates the process of minting and burning of tokens, as well as how to maintain a balance of tokens for different addresses. The purpose of this program is to act as a simple introduction for managing token supply on the Ethereum blockchain.
 
 
 ## Description
@@ -24,7 +24,3 @@ Follow these steps to run the program using Remix, an online Solidity IDE:
 ## Authors
 
 Reannah Lobaton
-
-
-
-
