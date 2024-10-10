@@ -1,4 +1,4 @@
-# SolidityModule
+# Project: Create a Token
 Final assessment for Getting Started with Solidity. A basic implementation of a token system that allows minting and burning of tokens.  It demonstrates the process of minting and burning tokens, as well as how to maintain a balance of tokens for different addresses. 
 
 
