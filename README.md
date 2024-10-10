@@ -10,6 +10,7 @@ This program is designed for individuals who are new to Solidity and smart contr
 
 ## Getting Started
 
+### Executing the Program
 To run the program, you can use an online Solidity IDE called Remix (https://remix.ethereum.org/) and follow the steps below: 
 
 Go to the Remix website and create a new file by clicking on the "+" icon in the left-hand sidebar. Name the file MyToken.sol.
