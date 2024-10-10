@@ -52,4 +52,5 @@ You can interact with the contract by using the mint function to add tokens to a
 ## Authors
 
 Reannah Lobaton
+
 @yannahlb
